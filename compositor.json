@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "compositor-test",
-      "subhead": null,
+      "heading": "Hello",
+      "subhead": "This is a testy test.",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -56,6 +56,12 @@
           "component": "ui/GithubButton",
           "user": "mariuskueng",
           "repo": "compositor-test"
+        }
+      ],
+      "links": [
+        {
+          "href": "",
+          "text": ""
         }
       ]
     },
